@@ -1,0 +1,25 @@
+{
+  "name": "bookshelf",
+  "version": "1.0.0",
+  "description": "Bookshelf backend API submission with Hapi.js framework.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "hapi",
+    "project",
+    "nodejs"
+  ],
+  "author": "Noval Ramdhani",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "nanoid": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "nodemon": "^2.0.16"
+  }
+}
