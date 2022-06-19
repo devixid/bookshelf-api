@@ -1,0 +1,6 @@
+*text=auto
+
+*.js diff=js
+*.json diff=json
+
+export-ignore package-lock.json
